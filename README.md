@@ -95,17 +95,17 @@ print("Done")
 
 ## Keywords and Aliases
 
-| Keyword(s)                          | Meaning              |               |            |
-| ----------------------------------- | -------------------- | ------------- | ---------- |
-| `func`, `fun`, `fn`, `funky`, `def` | Function declaration |               |            |
-| `var`, `val`, `let`, `define`       | Variable declaration |               |            |
-| `const`                             | Constant declaration |               |            |
-| `if`, `❓`                          | Conditional          |               |            |
-| `for`                               | For loop             |               |            |
-| `while`, `loop`, `forever`          | While loop           |               |            |
-| `and`, `plus`                       | Logical AND          |               |            |
-| `or`, `perhaps`                     | Logical OR           |               |            |
-| `not`, `!`                          | Logical NOT          |               |            |
+| Keyword(s)                          | Meaning              |
+| ----------------------------------- | -------------------- |
+| `func`, `fun`, `fn`, `funky`, `def` | Function declaration |
+| `var`, `val`, `let`, `define`       | Variable declaration |
+| `const`                             | Constant declaration |
+| `if`, `❓`                          | Conditional          |
+| `for`                               | For loop             |
+| `while`, `loop`, `forever`          | While loop           |
+| `and`, `plus`                       | Logical AND          |
+| `or`, `perhaps`                     | Logical OR           |
+| `not`, `!`                          | Logical NOT          |
 
 ---
 
@@ -120,5 +120,3 @@ MIT License — use it as you want.
 Contributions, issues, and ideas are welcome!
 
 ---
-
-```
