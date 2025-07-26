@@ -1,0 +1,46 @@
+val x = 5
+val y = 2
+val z = x * y + 10
+
+funky checkValue(n){
+    if (n == 0) {
+        return "Zero"
+    }
+    if (n % 2 == 0) {
+        return true
+    }
+    return false
+}
+
+val result
+
+while (x >= 0) {
+    result = checkValue(x)
+    print("x =", x, "=> checkValue returns:", result)
+    x = x - 1
+}
+
+for (3) {
+    print("For loop iteration")
+}
+
+val person = {
+    name: "Ameen",
+    age: 25
+}
+
+print("Person name:", person.name)
+print("Person age:", person.age)
+
+val a = true
+val b = false
+
+if (a and !b) {
+    print("Logical expressions working!")
+}
+if (a or !b) {
+    print("Logical expressions working!")
+}
+
+
+print("All features tested!")
